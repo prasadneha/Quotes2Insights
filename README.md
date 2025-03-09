@@ -12,20 +12,15 @@ The objective of this project is to show how raw web data can be transformed int
 This process demonstrates the full pipeline—from data collection, cleaning, and normalization to drawing meaningful insights—crucial for data-driven decision-making.
 
 ### Files in the Repository:
-- Web Scrapping.ipynb
-Contains the Python script that scrapes the website, extracts the author, quote, and tag names, cleans the quote text, and saves the raw data as a CSV file (quotes_data.csv).
+- Web Scrapping.ipynb: Contains the Python script that scrapes the website, extracts the author, quote, and tag names, cleans the quote text, and saves the raw data as a CSV file (quotes_data.csv).
 
-- quotes_data.csv
-The CSV file generated from the web scraping process. It contains the raw scraped data with columns for the author, quote, and tag names.
+- quotes_data.csv: The CSV file generated from the web scraping process. It contains the raw scraped data with columns for the author, quote, and tag names.
 
-- SQL_Insights.sql
-Contains SQL queries and commands used to load the data into a SQL database, create normalized tables, and derive insights such as the number of quotes per author, top tags, and other key statistics.
+- SQL_Insights.sql: Contains SQL queries and commands used to load the data into a SQL database, create normalized tables, and derive insights such as the number of quotes per author, top tags, and other key statistics.
 
-- cleaned_dataset.csv
-A cleaned version of the dataset generated in the EDA phase. In this file, missing values have been imputed and the data has been prepared for further analysis and visualization.
+- cleaned_dataset.csv: A cleaned version of the dataset generated in the EDA phase. In this file, missing values have been imputed and the data has been prepared for further analysis and visualization.
 
-- EDA & Visualizations.ipynb
-A Jupyter Notebook that performs exploratory data analysis and generates visualizations—including bar charts, word clouds, and pie charts—using the cleaned dataset.
+- EDA & Visualizations.ipynb: A Jupyter Notebook that performs exploratory data analysis and generates visualizations—including bar charts, word clouds, and pie charts—using the cleaned dataset.
 
 ### How to Run the Project:
 1. Web Scraping:
