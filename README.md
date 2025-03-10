@@ -29,7 +29,7 @@ Open and run Web Scrapping.ipynb in Jupyter Notebook to scrape the website and g
 2. SQL Insights:
 Load the dataset into your SQL database (e.g., MySQL) using the commands in SQL_Insights.sql to create normalized tables and derive insights.
 
-3. Data Cleaning & EDA:
+3. EDA & Visualizations:
 Open and run EDA & Visualizations.ipynb in Jupyter Notebook. In this notebook, missing values are imputed and the cleaned data is saved as cleaned_dataset.csv for further analysis and visualization.
 
 ### Project Team:
