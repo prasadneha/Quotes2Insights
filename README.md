@@ -1,6 +1,6 @@
 # Quotes2Insights
 
-Quotes2Insights is a project that demonstrates the end-to-end process of extracting, cleaning, and analyzing web data. In this project, we scraped quotes from the website Quotes to Scrape, stored the data in CSV files, derived insights using SQL, and performed exploratory data analysis and visualizations using Python.
+Quotes2Insights is a project that demonstrates the end-to-end process of extracting, cleaning, and analyzing web data. In this project, we scraped quotes from the website [Quotes to Scrape](http://quotes.toscrape.com/), stored the data in CSV files, derived insights using SQL, and performed exploratory data analysis and visualizations using Python.
 
 ### Project Overview & Objective:
 
@@ -34,11 +34,11 @@ Open and run EDA & Visualizations.ipynb in Jupyter Notebook. In this notebook, m
 
 ### Project Team:
 
-- Neha Prasad: Project Overview & Web Scraping 
+- [Neha Prasad](https://github.com/prasadneha): Project Overview & Web Scraping 
 
-- Nisha Kumari: SQL Insights
+- [Nisha Kumari](https://github.com/sanishapm): SQL Insights
 
-- Madduri Vinay Kumar: Exploratory Data Analysis & Data Visualization
+- [Madduri Vinay Kumar](https://github.com/vinaykumar2331): Exploratory Data Analysis & Data Visualization
 
 ### Dependencies:
 
