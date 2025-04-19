@@ -40,7 +40,7 @@ from authors;
 
 select * from quotes_details;
 
--- Creating the tags_details table to store unique tags
+-- Creating the tags_details table to store unique tags.
 create table tags_details(
 TagID int auto_increment primary key,
 TagName varchar(255)
