@@ -46,7 +46,7 @@ TagID int auto_increment primary key,
 TagName varchar(255)
 );
 
--- changing auto_increment to 100 so that it can start from 100
+-- changing auto_increment to 100 so that it can start from 100.
 alter table tags_details auto_increment=100;
 -- Inserting distinct tags from authors table 
 insert into tags_details(TagName)
